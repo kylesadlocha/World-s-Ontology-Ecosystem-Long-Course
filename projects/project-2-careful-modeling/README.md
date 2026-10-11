@@ -1,7 +1,7 @@
 # Project 2 — Careful Modeling
 
-**Due:** Week 7  
-**Submission:** Pull request  
+**Due:** Week 7
+**Submission:** Pull request
 **Purpose:** Apply a repeatable modeling process to difficult domains, make commitments explicit, encode them in OWL, write definitions, and use a reasoner.
 
 This project adapts the careful-modeling exercises from the intensive course, where students constructed reusable design patterns, encoded them in OWL, wrote definitions and identifying descriptions, and ran a reasoner.
@@ -51,7 +51,7 @@ submissions/YOUR-GITHUB-USERNAME/project-2/
 
 - [Original Day 1 patrol-boat OWL exercise](https://github.com/Applied-Ontology-Education/World-s-Ontology-Ecosystem/tree/main/exercises/day-1)
 - [Original Day 2 careful-modeling exercise](https://github.com/Applied-Ontology-Education/World-s-Ontology-Ecosystem/tree/main/exercises/day-2)
-- [Definition-writing guidance from the intensive course](https://github.com/Applied-Ontology-Education/World-s-Ontology-Ecosystem/blob/main/exercises/day-2/Guidelines%20for%20Writing%20Definitions.pdf)
+- [Definition-writing guidance from the intensive course](<https://github.com/Applied-Ontology-Education/World-s-Ontology-Ecosystem/blob/main/exercises/day-2/Guidelines%20for%20Writing%20Definitions.pdf>)
 
 ## Evaluation
 
